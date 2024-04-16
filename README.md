@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
 <h3 align="center">Full Stack Software Developer with expertise in front-end Development along with database.</h3>
-<div style="display:flex; justify-content:space-between;">
-  <div>
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/developer-working-on-computer-4337851-3618988.mp4" />
       - 🔭 I’m currently working on [Yuva Kabaddi](https://apps.apple.com/in/app/yuva-kabaddi-series-official/id1628806073)
 
       - 🌱 I’m currently learning **Docker, Kubernates, AWS**
@@ -11,9 +10,7 @@
       - 💬 Ask me about **React, Next.js, Vue.js**
 
       - 📫 How to reach me **sonijatin9227@gmail.com**
-  </div>
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/developer-working-on-computer-4337851-3618988.mp4" />
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
