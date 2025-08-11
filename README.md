@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Developer with expertise in front-end Development along with database.</h3>
 <img align="right" alt="developer" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" />
 
-- 🔭 I’m currently working on [Yuva Kabaddi](https://apps.apple.com/in/app/yuva-kabaddi-series-official/id1628806073)
+- 🔭 I’m currently working on Base24-eps
 
 - 🌱 I’m currently learning **Docker, Kubernates, AWS**
 
