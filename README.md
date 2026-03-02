@@ -2,15 +2,15 @@
 <h3 align="center">Full Stack Software Developer with expertise in front-end Development along with database.</h3>
 <img align="right" alt="developer" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" />
 
-- 🔭 I’m currently working on Base24-eps
+- 🔭 I’m currently working on Swiggy Partners
 
 - 🌱 I’m currently learning **Docker, Kubernates, AWS**
 
 - 👨‍💻 All of my projects are available at [jkdeveloper.netlify.app](jkdeveloper.netlify.app)
 
-- 💬 Ask me about **React, Next.js, Vue.js**
+- 💬 Ask me about **React, Next.js, React Native, Java**
 
-- 📫 How to reach me **sonijatin9227@gmail.com**
+- 📫 How to reach me **jatinkumar.swe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
